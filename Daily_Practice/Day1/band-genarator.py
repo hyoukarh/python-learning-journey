@@ -5,5 +5,5 @@ city = input("What city are you from?\n")
 pet = input("What's the name of your pet?\n")
 # Two variables that store the users input
 
-print(city + " " + pet)
+print("You could name your band: " + city + " " + pet)
 # Outputs the value of both variables
