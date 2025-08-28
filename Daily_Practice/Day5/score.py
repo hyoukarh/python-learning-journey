@@ -7,3 +7,5 @@ if student_scores:
         if student_scores[n] >= max_number:
             max_number = student_scores[n]
     print(f"The highest number in the class is: {max_number}")
+else:
+    print("Enter scores.")
